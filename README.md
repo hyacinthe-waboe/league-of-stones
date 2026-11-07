@@ -1,5 +1,7 @@
 # 🐉 League of Stones
 
+La version présentée dans mon portfolio est [projet-league-of-stones](https://github.com/hyacinthe-waboe/projet-league-of-stones). Ce dépôt conserve le fork du dépôt d'équipe et son guide détaillé.
+
 > Jeu de cartes en ligne — Mashup entre Hearthstone et League of Legends
 > Projet Web L3 MIASHS — Université Toulouse 2 Jean Jaurès — Groupe 6
 
@@ -61,7 +63,7 @@ League of Stones est un jeu de cartes en ligne au tour par tour. Deux joueurs s'
 
 ## Prérequis
 
-- **Node.js** v18 ou supérieur
+- **Node.js** v20.9 ou supérieur
 - **npm** v9 ou supérieur
 - **MongoDB** installé et lancé sur votre machine
 
@@ -75,7 +77,7 @@ League of Stones est un jeu de cartes en ligne au tour par tour. Deux joueurs s'
 mongod
 
 # 2. Dans un nouveau terminal, aller dans le dossier backend
-cd league-of-stones
+cd League-Of-Stones
 
 # 3. Installer les dépendances (première fois uniquement)
 npm install
